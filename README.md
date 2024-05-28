@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @ashrln
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on various project that involves ML and AI
-- 📫 How to reach me ... ashrielnhembo.dev@GMAIL@COM
-- 😄 Pronouns: HE/HIM
+- 👋 Hi, I’m @ashrln, I’m interested in Artificial Intelligence
 - ⚡ Fun fact: Cooding ain't for nerds only
 
 <!---
